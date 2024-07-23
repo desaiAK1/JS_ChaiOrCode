@@ -25,10 +25,11 @@ let isLoggedIn=1;
 let booleanConvert=Boolean(isLoggedIn);
 console.log(booleanConvert);
 
-//string conversion
+//strig conversion
 
 let anyNumber=3;
 
 let stringConversion=String(anyNumber);
 console.log(stringConversion);
 console.log(typeof(stringConversion));
+
